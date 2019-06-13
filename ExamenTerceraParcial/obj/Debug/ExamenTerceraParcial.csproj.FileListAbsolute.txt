@@ -1,0 +1,10 @@
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\obj\Debug\ExamenTerceraParcial.csprojAssemblyReference.cache
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\obj\Debug\ExamenTerceraParcial.Form1.resources
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\obj\Debug\ExamenTerceraParcial.Properties.Resources.resources
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\obj\Debug\ExamenTerceraParcial.csproj.GenerateResource.cache
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\obj\Debug\ExamenTerceraParcial.csproj.CoreCompileInputs.cache
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\bin\Debug\ExamenTerceraParcial.exe.config
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\bin\Debug\ExamenTerceraParcial.exe
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\bin\Debug\ExamenTerceraParcial.pdb
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\obj\Debug\ExamenTerceraParcial.exe
+C:\Users\dass1\OneDrive\Escritorio\Facu\Progra\ExamenTerceraParcial\ExamenTerceraParcial\obj\Debug\ExamenTerceraParcial.pdb
